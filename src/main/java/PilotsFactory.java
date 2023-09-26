@@ -6,7 +6,7 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class ConsumoAPI {
+public class PilotsFactory {
     public static void main(String[] args) {
         //Solicitar peticion
         URL url = null;
